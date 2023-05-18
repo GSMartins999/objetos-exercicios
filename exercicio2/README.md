@@ -16,10 +16,12 @@ const filme = {
 		{canal: "Globo", horario: "14h"}
 		]
 }
+
+
 ```
 
 a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
-
+console.log(filme.elenco[0])
 b) Qual o código para imprimir o nome do **último** ator/atriz?
 
 c) Qual o código para exibir o array com **todas** as transmissões de hoje?
